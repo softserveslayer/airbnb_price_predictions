@@ -24,7 +24,7 @@ http://data.insideairbnb.com/new-york-city/2015-01-01/data/listings.csv.gz
 * Matplotlib
 * Seaborn
 * Scipy 
-
+##
 * cleaning data with numpy and pandas
 * probability and combinatorics
 * probability distributions
