@@ -1,7 +1,7 @@
-# airbnb_price_predictions
+# Airbnb Price Predictions
 Mod 2 project. Answers the question, "What best determines an AirBnB's rental price?"
 
-# Project Name
+# Airbnb Price Predictions
 
 TODO: Write a project description
 
