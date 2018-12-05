@@ -25,6 +25,9 @@ http://data.insideairbnb.com/new-york-city/2015-01-01/data/listings.csv.gz
 * Seaborn
 * Scipy 
 ##
+
+## Objectives
+
 * cleaning data with numpy and pandas
 * probability and combinatorics
 * probability distributions
