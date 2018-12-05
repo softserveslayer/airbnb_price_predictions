@@ -1,5 +1,6 @@
 # Airbnb Price Predictions
-Mod 2 project. Answers the question, "What best determines an AirBnB's rental price?"
+Mod 2 project Data science. 
+Answers the question, "What best determines an AirBnB's rental price?"
 
 # Airbnb Price Predictions
 
@@ -26,8 +27,8 @@ TODO: Write usage instructions
 TODO: Write history
 
 ## Credits
-
-TODO: Write credits
+Jaime Cheng
+Marcello Urquieta
 
 ## License
 
