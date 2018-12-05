@@ -12,7 +12,8 @@ TODO: Describe the installation process
 
 ## Data sources
 
-TODO: Write usage instructions
+http://data.insideairbnb.com/new-york-city/2015-01-01/data/listings.csv.gz
+
 
 ## Technologies Used
 
@@ -23,6 +24,14 @@ TODO: Write usage instructions
 . Matplotlib
 . Seaborn
 . Scipy 
+
+* cleaning data with numpy and pandas
+* probability and combinatorics
+* probability distributions
+* hypothesis testing
+* simple linear regression
+* multiple linear regression
+* cross validation and the bias/variance tradeoff
 
 
 ## History
