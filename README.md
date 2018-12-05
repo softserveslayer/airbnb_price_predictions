@@ -1,10 +1,9 @@
 # Airbnb Price Predictions
-Mod 2 project Data science. 
-Answers the question, "What best determines an AirBnB's rental price?"
+* Mod 2 project Data science. 
 
-# Airbnb Price Predictions
+Answers the question
+"What best determines an AirBnB's rental price?"
 
-TODO: Write a project description
 
 ## Installation
 
