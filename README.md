@@ -17,13 +17,13 @@ http://data.insideairbnb.com/new-york-city/2015-01-01/data/listings.csv.gz
 
 ## Technologies Used
 
-. Scikit learn
-. Pandas
-. Numpy
-. Jupyter Notebook
-. Matplotlib
-. Seaborn
-. Scipy 
+* Scikit learn
+* Pandas
+* Numpy
+* Jupyter Notebook
+* Matplotlib
+* Seaborn
+* Scipy 
 
 * cleaning data with numpy and pandas
 * probability and combinatorics
