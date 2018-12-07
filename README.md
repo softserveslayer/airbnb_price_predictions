@@ -1,4 +1,4 @@
-![alt text](bnb.png)
+![alt text](charts.png)
 
 
 
