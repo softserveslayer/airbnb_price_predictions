@@ -23,13 +23,13 @@ http://data.insideairbnb.com/new-york-city/2015-01-01/data/listings.csv.gz
 
 ## Technologies Used
 
-* Scikit learn
-* Pandas
-* Numpy
-* Jupyter Notebook
-* Matplotlib
-* Seaborn
-* Scipy 
+* Scikit learn / pip install -U scikit-learn
+* Pandas / pip install pandas
+* Numpy / pip install 
+* Jupyter Notebook /
+* Matplotlib / pip install matplotlib
+* Seaborn / pip install seaborn
+* Scipy /  pip install scipy
 ##
 
 ## Objectives
