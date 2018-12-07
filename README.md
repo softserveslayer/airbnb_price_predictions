@@ -1,12 +1,3 @@
-![alt text](charts.png)
-
-
-
-
-
-
-
-
 
 
 # AirBnB Rental Price Predictions
