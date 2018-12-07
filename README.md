@@ -1,10 +1,21 @@
+![alt text](bnb.png)
+
+
+
+
+
+
+
+
+
+
 # AirBnB Rental Price Predictions
 
 # Creating a model that will best predict AirBnB rental prices in New York City
 
 # Process
 
-We first found data from a site called Inside Airbnb that compiles information directly from the site. It is not affiliated with AirBnB in any way, but the information is all direct and acurate.
+We first found data from a site called 'Inside Airbnb' that compiles information directly from the site. It is not affiliated with AirBnB in any way, but the information is all direct and acurate.
 In addition to general AirBnB listing data, we thought "neighborhood value" would be solid factor in predicting rental price. We utilized the Zillow API to get the median house price for each neighborhood in every AirBnB listing.
 
 
