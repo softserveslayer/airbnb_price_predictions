@@ -1,9 +1,6 @@
 # AirBnB Rental Price Predictions
 
-
-
-
-# Goal: Create a model that will best predict AirBnB rental prices in New York City
+# Creating a model that will best predict AirBnB rental prices in New York City
 
 # Process
 
