@@ -9,10 +9,6 @@ In addition to general AirBnB listing data, we thought "neighborhood value" woul
 
 
 
-## Installation
-
-TODO: Describe the installation process
-
 ## Data sources
 
 http://data.insideairbnb.com/new-york-city/2015-01-01/data/listings.csv.gz
