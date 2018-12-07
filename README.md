@@ -36,11 +36,7 @@ http://data.insideairbnb.com/new-york-city/2015-01-01/data/listings.csv.gz
 * cross validation and the bias/variance tradeoff
 
 
-## History
-
-TODO: Write history
-
 ## Credits
-Jaime Cheng
-Marcello Urquieta
+* Jaime Cheng
+* Marcello Urquieta
 
