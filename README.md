@@ -48,6 +48,3 @@ TODO: Write history
 Jaime Cheng
 Marcello Urquieta
 
-## License
-
-TODO: Write license
